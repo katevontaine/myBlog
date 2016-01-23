@@ -1,0 +1,27 @@
+{
+"blog": {
+ "url": "http://katevontaine.github.io/myBlog",
+ "title": "Kate Vontaine",
+ "description": "An exploration in my triumphs and challenges of coding.",
+ "logo": "https://avatars.githubusercontent.com/u/115030?v=3",
+ "cover": "assets/images/coverArt.jpg",
+ "social": {
+   "twitter": "katevontaine",
+   "github": "katevontaine",
+   "linked": "kwilson",
+   "instagram": "katevontaine"
+ },
+ "google_analytics": "UA-8904260-8",
+ "disqus_shortname": "katevontaine"
+},
+"authors": {
+ "default": {
+   "name": "Coding Kate",
+   "bio": "Developer//Marketer//Mermaid",
+   "website": "http://calweb.github.io",
+   "image": "https://avatars.githubusercontent.com/u/115030?v=3",
+   "cover": "http://lorempixel.com/1100/425/animals/",
+   "slug": "kate"
+ }
+}
+}
